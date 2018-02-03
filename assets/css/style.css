@@ -171,7 +171,6 @@ section {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
-    z-index: 3;
    
 }
 
@@ -188,8 +187,8 @@ h4 {
     color: white;
     background: #4aaaa5;
     padding: 15px;
-    top: 145px;
-    width: 251px;
+    top: 150px;
+    width: 250px;
     text-align: center;
 
 }
